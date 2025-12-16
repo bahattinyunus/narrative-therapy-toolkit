@@ -9,3 +9,6 @@
 - **Zayıf Yönler (Kusurlar):**
 - **Motivasyon (Ne istiyor?):**
 - **Çatışma (İstediğini elde etmesine engel olan ne?):**
+
+---
+[< Önceki: Hikaye Yapıları](02-structure.md) | [Sonraki: Arketipler >](04-archetypes.md)

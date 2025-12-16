@@ -7,3 +7,6 @@ Hikaye anlatıcılığı (storytelling), bilgiyi, duyguyu ve deneyimi aktarmanı
 - **Bağ Kurma:** Hikayeler, dinleyici ile anlatıcı arasında duygusal bir bağ kurar.
 - **Akılda Kalıcılık:** İnsan beyni, kuru verilerden ziyade hikayeleştirilmiş bilgiyi daha kolay hatırlar.
 - **İlham Verme:** İyi bir hikaye, insanları harekete geçirebilir ve motive edebilir.
+
+---
+[Sonraki: Hikaye Yapıları >](02-structure.md)

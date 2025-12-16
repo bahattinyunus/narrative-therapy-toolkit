@@ -21,3 +21,6 @@ Sanderson'ın Büyü Yasaları:
 - [ ] Dünyanın tarihi hikayeyi etkiliyor mu?
 - [ ] Ekonomik sistem mantıklı mı? (İnsanlar nasıl geçiniyor?)
 - [ ] Kurallar tutarlı mı?
+
+---
+[< Önceki: Arketipler](04-archetypes.md) | [Sonraki: Diyalog Ustalığı >](06-dialogue-mastery.md)

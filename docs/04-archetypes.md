@@ -23,3 +23,6 @@ Arketipler, Carl Jung'un kolektif bilinçdışı teorisinden türetilen ve hikay
 **Örnekler:** Loki, Han Solo (kısmen), Jack Sparrow.
 
 > 💡 **İpucu:** En iyi karakterler genellikle tek bir arketipe sıkışıp kalmazlar. Arketipleri karıştırarak (örneğin, bir *Bilge* ama aynı zamanda *Şakacı*) derinlik katabilirsiniz.
+
+---
+[< Önceki: Karakter Gelişimi](03-character-development.md) | [Sonraki: Dünya İnşası >](05-world-building.md)
