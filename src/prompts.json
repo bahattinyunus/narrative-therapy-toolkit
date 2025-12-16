@@ -1,6 +1,32 @@
 {
-  "genres": ["Bilim Kurgu", "Fantastik", "Polisiye", "Korku", "Romantik Komedi", "Distopya"],
-  "archetypes": ["Yorgun Dedektif", "Seçilmiş Kişi", "Sürgündeki Prens", "Çılgın Bilim İnsanı", "İsteksiz Kahraman"],
-  "conflicts": ["Dünyayı kurtarmak zorunda", "Bir cinayeti çözmeli", "Kaybolan bir hazineyi bulmalı", "Kendi geçmişiyle yüzleşmeli", "Yasak bir aşka tutulur"],
-  "settings": ["Terk edilmiş bir uzay istasyonu", "Büyülü bir orman", "Yağmurlu bir siberpunk şehri", "Viktor yerden bir malikane", "Sualtı kolonisi"]
+  "genres": [
+    "Bilim Kurgu",
+    "Fantastik",
+    "Polisiye",
+    "Korku",
+    "Romantik Komedi",
+    "Distopya",
+    "İyileştirici/Terapi"
+  ],
+  "archetypes": [
+    "Yorgun Dedektif",
+    "Seçilmiş Kişi",
+    "Sürgündeki Prens",
+    "Çılgın Bilim İnsanı",
+    "İsteksiz Kahraman"
+  ],
+  "conflicts": [
+    "Dünyayı kurtarmak zorunda",
+    "Bir cinayeti çözmeli",
+    "Kaybolan bir hazineyi bulmalı",
+    "Kendi geçmişiyle yüzleşmeli",
+    "Yasak bir aşka tutulur"
+  ],
+  "settings": [
+    "Terk edilmiş bir uzay istasyonu",
+    "Büyülü bir orman",
+    "Yağmurlu bir siberpunk şehri",
+    "Viktor yerden bir malikane",
+    "Sualtı kolonisi"
+  ]
 }

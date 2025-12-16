@@ -7,6 +7,7 @@ Tema, hikayenizin ruhudur. Okuyucuya vermek istediğiniz mesaj veya sorduğunuz 
 - **Aşk her şeyi yener mi?** (Romeo ve Juliet)
 - **Güç yozlaştırır mı?** (Yüzüklerin Efendisi)
 - **İnsan doğası vahşi midir?** (Sineklerin Tanrısı)
+- **Yazmak/Anlatmak iyileştirir mi?** (Şifa ve Dönüşüm)
 
 ## Temayı Nasıl İşlersiniz?
 Temayı karakterlerinizin gözüne sokmayın. Onu olay örgüsüyle gösterin.
