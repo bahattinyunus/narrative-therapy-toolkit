@@ -1,22 +1,22 @@
-# Karakter Gelişimi: Yaralı Şifacılar
+# Karakter Gelişimi: Nefsin Şifası ve Tekamül
 
-En etkileyici karakterler, en mükemmel olanlar değil; **en gerçekçi yaralara sahip olanlardır.** Okuyucu, kahramanın başarısını değil, düşüp tekrar kalkmasını sever.
+İnsan, zıtlıkların (zahir ve batın, nefs ve ruh) birleştiği bir varlıktır. Derinlikli bir karakter, bu iç savaşı ve **iyileşme sürecini** en gerçekçi yaşayan kişidir.
 
-## Karakterin Anatomisi
-Bir karakter yaratırken şu sıralamayı izleyin:
+## Karakterin Manevi Anatomisi
+Bir karakter inşa ederken şu katmanlara dikkat edin:
 
-1. **Yara (The Wound):** Karakterin geçmişindeki o kırılma anı. (Örn: Terk edilme, başarısızlık, suçluluk).
-2. **Yalan (The Lie):** Karakterin bu yarayı saklamak için kendine söylediği yalan. ("Kimseye güvenmemeliyim", "Asla hata yapmamalıyım").
-3. **Maske (Persona):** Topluma gösterdiği yüzü.
-4. **İhtiyaç (The Need):** Karakterin *istediği* değil, iyileşmek için *ihtiyaç duyduğu* şey. (Genellikle Yalan'dan vazgeçmek).
+1. **Yara (Acziyet):** Karakterin eksikliğinin farkına vardığı ilk kırılma. Kendi sınırlılığını tatması.
+2. **Perde (Gaflet):** Hakikati görmesine engel olan tutkuları, hırsları veya korkuları. "Benlik" iddiası.
+3. **İmtihan (The Need):** Karakterin arzuladığı (nefsani) değil, tekamülü için muhtaç olduğu (ruhani) şey.
+4. **Kemalat (Olgunlaşma):** "Ben" demekten vazgeçip "Biz" veya "O" diyebilme aşaması.
 
-## Şifalanma Arkı
+## Tekamül Arkı (Yay)
 Hikaye boyunca karakter:
-- Yarasıyla yüzleşir.
-- Yalanının artık onu korumadığını fark eder.
-- Maskesini indirir ve gerçeği kucaklar.
+- Kendi "benliği" (nefs-i emmare) ile yüzleşir.
+- Pişmanlık (levvame) duyar.
+- Arınır ve mutmain (huzurlu) bir hale doğru evrilir.
 
-> "Karakterlerinizi ne kadar zorlarsanız, o kadar parlatırsınız."
+> "Hamdım, piştim, yandım."
 
 ---
-[< Önceki: Hikaye Yapıları](02-structure.md) | [Sonraki: Arketipler >](04-archetypes.md)
+[< Önceki: Hikaye Yapıları](02-structure.md) | [Sonraki: Arketipler (Rehberler) >](04-archetypes.md)

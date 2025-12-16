@@ -1,21 +1,23 @@
-# Düzenleme: Hikayeyi Arındırmak
+# Düzenleme: Tezkiye (Arınma) Süreci
 
-Yazmak, zihni boşaltmaktır (kusmak). Düzenlemek ise, o karmaşanın içindeki "cevheri" bulup çıkarmaktır. Bu bir arınma (katharsis) sürecidir.
+Metni düzenlemek, onu fazlalıklarından (masiva) temizleme işlemidir. Heykeltıraşın taşı yontması gibi, yazar da metni yontarak hakikati ortaya çıkarır.
 
-## 1. Fazlalıklardan Kurtulmak
-Hikayeye hizmet etmeyen her kelime, okuyucu ile anlam arasına giren bir duvardır.
-- Egoyu tatmin eden süslü cümleleri atın.
-- Gerçeği gölgeleyen tekrarları silin.
+## 1. Masivayı (Gereksiz Şeyleri) Atmak
+Hikayenin özüne hizmet etmeyen her kelime bir yüktür.
+- Gösteriş için yapılmış süslü betimlemeler (edebi kibir).
+- Manayı boğan gereksiz tekrarlar.
+Bunları atmak, metne "nefes" aldırır.
 
-## 2. Duygusal Dürüstlük Kontrolü
-- Bu sahnede karakter gerçekten bunu mu hissederdi?
-- Yoksa yazar olarak ben mi müdahale ettim?
-- Karakterin acısına saygı duydum mu?
+## 2. Sıdk (Doğruluk) Kontrolü
+- Yazdıklarınızda samimi misiniz?
+- Yoksa okuyucuyu etkilemek için "mış gibi" mi yapıyorsunuz?
+- Hakikate sadık kalın.
 
-## 3. Akış ve Ritim
-İyileşme bir ritim işidir. Nefes alıp verme gibi. Hikayeniz nefes alıyor mu? Çok mu hızlı koşuyor, yoksa durup dinlenmeye zaman tanıyor mu?
+## 3. Sabır ve Demlenme
+Aceleci olmayın. "Hız şeytandan, teenni (yavaş ve temkinli hareket) Rahman'dandır."
+Yazınızı bir süre nadasa bırakın (halvet). Geri döndüğünüzde ona daha nurlu bir gözle bakacaksınız.
 
-> 🛑 **Hatırlatma:** Mükemmel olmak zorunda değilsiniz. Sadece "gerçek" olun. Şifa oradadır.
+> "Güzel gören, güzel düşünür."
 
 ---
 [< Önceki: Tema ve Sembolizm](07-theme-and-symbolism.md) | [🏠 Ana Sayfa](../README.md)

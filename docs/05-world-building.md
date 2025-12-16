@@ -1,18 +1,20 @@
-# Dünya İnşası: Ruhun Coğrafyası
+# Dünya İnşası: Tecelli Sahnesi
 
-Yarattığınız dünya, karakterin iç dünyasının dışa vurumudur. Mekanlar sadece dekor değil, karakterin ruh halinin aynasıdır.
+Dünya, mananın maddeye bürünmüş halidir. Yarattığınız evren, karakterlerinizin içsel hakikatlerinin dışa vurumu (tecellisi) olmalıdır.
 
-## 1. Güvenli Alanlar vs. Tehlikeli Bölgeler
-- **Ev (Konfor Alanı):** Karakterin kendini güvende hissettiği ama büyüyemediği yer. (Hobbit Köyü)
-- **Yaban (Bilinçdışı):** Korkularla yüzleşilen, kuralların işlemediği tekinsiz ormanlar, mağaralar.
+## 1. Zahir ve Batın (Görünen ve Görünmeyen)
+- **Zahir (Görünen Dünya):** Binalar, coğrafya, kurallar.
+- **Batın (Gizli Dünya):** Olayların arkasındaki sırlar, manevi atmosfer, rüyalar dünyası.
+İyi bir dünya inşası, zahirden batına kapı açar.
 
-## 2. Atmosfer ve İyileşme
-Havanın durumu, mimari ve doğa, iyileşme sürecini desteklemeli veya kösteklemelidir.
-- **Fırtına:** İçsel çatışma ve öfke.
-- **Bahar/Doğuş:** Yeniden doğuş ve umut.
+## 2. Mekanların Ruhu
+Mekanlar canlıdır.
+- **Çöl:** Yalnızlık, hiçlik ve arınma mekanı.
+- **Şehir:** Kesret (çokluk), karmaşa ve imtihan mekanı.
+- **Mağara:** İnziva ve vahiy/uyanış mekanı.
 
-## 3. Toplumun Yarası
-Sadece bireylerin değil, toplumların da travmaları vardır. İnşa ettiğiniz dünyadaki toplum neyden korkuyor? Neyin yasını tutuyor?
+## 3. Nizam ve Kaos
+Evreninizde adalet (nizam) var mı? Yoksa zulüm (kaos) mü hakim? Kahramanın görevi genellikle bozulan nizamı, ilahi adalete uygun şekilde onarmaktır.
 
 ---
-[< Önceki: Arketipler](04-archetypes.md) | [Sonraki: Diyalog Ustalığı >](06-dialogue-mastery.md)
+[< Önceki: Arketipler](04-archetypes.md) | [Sonraki: Diyalog Ustalığı (Kelam) >](06-dialogue-mastery.md)

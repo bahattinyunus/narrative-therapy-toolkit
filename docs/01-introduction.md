@@ -1,18 +1,18 @@
-# Giriş: Bir Şifa Aracı Olarak Hikaye Anlatıcılığı
+# Giriş: Şifa Aracı Olarak Hikaye
 
-Hikaye anlatıcılığı (storytelling), sadece bilgi aktarmak veya eğlendirmek değildir; **hikaye anlatmak, ruhun kendini onarma biçimidir.**
+Hikaye anlatıcılığı (storytelling), sadece sözcükleri dizme sanatı değildir; **hikaye, ruhun yaralarına merhem sürme ve kesrette (çoklukta) şifayı (birliği) bulma çabasıdır.**
 
 ## Neden Anlatıyoruz?
-İnsan zihni, kaos içindeki dünyayı anlamlandırmak için hikayelere ihtiyaç duyar. Bir travma, bir acı veya anlaşılmaz bir olay yaşadığımızda, onu bir hikayeye dönüştürerek "kontrol edilebilir" ve "anlaşılabilir" hale getiririz.
+İnsan, "Ahsen-i Takvim" üzerine yaratılmış ama varoluş sancıları çeken yaralı bir yolcudur. Zihnimizdeki ve kalbimizdeki karmaşayı (kaos), hikayelerin nizamı (kozmos) ile sakinleştirir ve tedavi ederiz.
 
-> "Acı, ancak bir hikayeye dönüştüğünde katlanılabilir hale gelir." — Hannah Arendt
+> "Söz, mananın kalıbıdır; şifa ise o mananın özündedir."
 
 ## Bu Rehberin Amacı
-Bu rehber, size sadece "nasıl daha iyi yazacağınızı" öğretmez. Size, **kelimelerle kendinizi ve başkalarını nasıl iyileştireceğinizi** gösterir.
+Bu rehber, size sadece kurgu yapmayı değil, **kelimelerle şifalanmayı** hatırlatır.
 
-- **Bağ Kurma:** Paylaşılan her acı, dinleyicinin yalnızlığını azaltır.
-- **Dönüşüm:** Karakterlerinizin iyileşmesi, okuyucunuza (ve size) iyileşme umudu verir.
-- **İlham:** Karanlığın içinden çıkan bir kahraman, gerçek hayattaki zorluklar için bir fenerdir.
+- **Bağ Kurma:** Gönülden gönüle giden yolları açmak, yalnızlığı dindirmek.
+- **Dönüşüm:** Ham iken pişmek, yanmak ve "insan-ı kamil" yolunda iyileşmek.
+- **İlham:** Karanlıkta bir mum yakmak, hakikate ve şifaya işaret etmek.
 
 ---
-[Sonraki: Hikaye Yapıları >](02-structure.md)
+[Sonraki: Hikaye Yapıları (Seyr-i Süluk) >](02-structure.md)

@@ -1,21 +1,23 @@
-# Arketipler: İçimizdeki Parçalar
+# Arketipler: Alem-i Sağir'in Sakinleri
 
-Arketipler sadece dışsal karakterler değil, kendi psikolojimizin parçalarıdır. Hikaye yazarken aslında kendi iç dünyamızdaki bu parçaları konuştururuz.
+İnsan "Küçük Alem" (Alem-i Sağir) ise, arketipler de bu alemin sakinleridir. Her karakter, manevi bir makamın veya sıfatın temsilcisidir.
 
-## 1. Kahraman (Ego/Benlik)
-Bilinçli tarafımız. Değişimi başlatan ve sorumluluğu alan parça.
+## 1. Kahraman (Salik / Yolcu)
+Henüz yolun başında olan, arayış içindeki kişi. Düşer, kalkar, hata yapar ama vazgeçmez.
 
-## 2. Gölge (Bastırılmış Benlik)
-Görmezden geldiğimiz, korktuğumuz veya utandığımız yanlarımız.
-- **Şifa:** Kahraman, Gölge'yi yok etmez; onunla barışır ve onu kabul eder. (Bütünleşme).
+## 2. Gölge (Nefs-i Emmare)
+Kötülüğü emreden nefis. Kahramanın kendi içinde yüzleşmekten korktuğu karanlık tarafı.
+- **Hikmet:** Gölge, yok edilecek bir düşman değil; terbiye edilecek bir potansiyeldir.
 
-## 3. Mentor (Yüksek Benlik / Vicdan)
-İçimizdeki bilge ses. Bize doğru yolu gösteren sezgi.
+## 3. Mürşid / Rehber (İnsan-ı Kamil)
+Yolu bilen, ışığı tutan bilge. Kahramana (Salik'e) nereye bakacağını gösterir ama ne göreceğini söylemez.
 
-## 4. Şakacı (İçimizdeki Çocuk)
-Oyun oynamayı, kuralları yıkmayı ve neşeyi hatırlatan parça. Bazen kaotiktir ama yaratıcılığın kaynağıdır.
+## 4. Celal ve Cemal (Zıtlıklar)
+- **Celal:** Sertlik, azamet ve imtihan temsilcileri (Zorluk çıkaranlar).
+- **Cemal:** Lütuf, güzellik ve merhamet temsilcileri (Yardım edenler).
+Her ikisi de kahramanın pişmesi için gereklidir.
 
-> 💡 **Perspektif:** Karakterlerinizi "kötü" veya "iyi" olarak değil, "yaralı" veya "şifalanmış" olarak düşünün.
+> "Narı da hoş, nuru da hoş."
 
 ---
-[< Önceki: Karakter Gelişimi](03-character-development.md) | [Sonraki: Dünya İnşası >](05-world-building.md)
+[< Önceki: Karakter Gelişimi](03-character-development.md) | [Sonraki: Dünya İnşası (Tecelli) >](05-world-building.md)

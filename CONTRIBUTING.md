@@ -1,20 +1,20 @@
-# Katkıda Bulunma Rehberi
+# Katkıda Bulunma Rehberi: İrfan Meclisi
 
-> "Bir hikaye anlat, dünyan iyileşsin."
+> "Bir mum, diğer mumu tutuşturmakla ışığından bir şey kaybetmez." — Hz. Mevlana
 
-Bu projeye katkıda bulunmak istediğiniz için teşekkürler! Biz, hikaye anlatıcılığının şifalı gücüne inanan bir topluluğuz.
+Bu repo, bir kod deposu değil, bir **irfan meclisidir**. Amacımız, hikaye anlatıcılığının hakikate açılan kapılarını aralamaktır.
 
-## Nasıl Katkıda Bulunabilirsiniz?
+## Nasıl Katkıda Bulunabilirsiniz? (Hizmet)
 
-1. **Hikaye Analizleri:** Sevdiğiniz bir hikayenin sizi nasıl etkilediğini veya değiştirdiğini anlatan analizler yazın.
-2. **Teknikler:** Anlatım sanatını geliştirecek yeni yöntemler paylaşın.
-3. **Düzeltmeler:** Gördüğünüz hataları düzeltmekten çekinmeyin. Bir virgül bile önemlidir.
+Bu yolculukta "çorbada bizim de tuzumuz olsun" derseniz:
 
-## Adımlar
-1. Bu projeyi forklayın.
-2. Yeni bir dal (branch) oluşturun (`git checkout -b ozellik/YeniSifa`).
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni bir bakış açısı ekle'`).
-4. Dalınızı push edin (`git push origin ozellik/YeniSifa`).
-5. Bir Pull Request oluşturun.
+1. **Hikmetli Analizler:** Sevdiğiniz eserlerdeki manevi sembolleri ve hakikat kırıntılarını analiz edin.
+2. **Usul ve Erkan:** Anlatım sanatının inceliklerine dair tecrübelerinizi paylaşın.
+3. ** tashih (Düzeltme):** Hatalarımızı düzeltmek bize en büyük hediyedir.
 
-Lütfen saygılı ve yapıcı bir dil kullanın. Burası güvenli bir yaratıcılık alanıdır.
+## Edep ve Usul (Kurallar)
+Bu meclisin kapısı herkese açıktır; ancak içeri girenin yükü "edep"tir.
+- Eleştirileriniz yapıcı (tamir edici) olsun, yıkıcı değil.
+- Kibirli değil, mütevazı bir dil kullanın.
+
+Lütfen değişikliklerinizi bir Pull Request ile gönderin. Her katkı, bu irfan sofrasına konan bir bereket olacaktır.

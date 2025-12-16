@@ -1,20 +1,20 @@
-# Hikaye Yapıları: İyileşme Haritası
+# Hikaye Yapıları: Seyr-i Süluk (Şifa Yolculuğu)
 
-Klasik hikaye yapıları, aslında birer **psikolojik iyileşme reçetesidir.** Kahramanın yolculuğu, travmatik bir olayla sarsılan bir ruhun (statüko bozulur), karanlıkla yüzleşip (düğüm) yeniden bütünleşme (çözüm) sürecidir.
+Klasik hikaye kurgusu, aslında bir "Seyr-i Süluk" (manevi tekamül ve şifalanma yolculuğu) haritasıdır. Kahraman, gurbetteki hasta ruhunu sılaya kavuşturmak ve iyileştirmek için yola çıkan bir derviştir.
 
-## 1. Serim, Düğüm, Çözüm: Kriz ve Dinginlik
-- **Serim (Denge):** Eski benlik, konfor alanı. Ancak eksik bir şeyler vardır.
-- **Düğüm (Kriz):** Travma veya değişim zorunluluğu. Karakter parçalanır, zorlanır.
-- **Çözüm (Yeni Denge):** Karakter parçaları birleştirir ve daha güçlü bir "ben" ile geri döner.
+## 1. Serim, Düğüm, Çözüm: Arayış ve Şifa
+- **Serim (Gaflet/Hastalık):** Kahramanın mevcut hali. Bir eksiklik, bir "yara" vardır ama henüz farkında değildir veya kaçmaktadır.
+- **Düğüm (İmtihan/Ameliyat):** Yolculuk başlar. Nefs ile mücadele, zorluklar ve "kabz" (daralma) hali. Yara deşilir.
+- **Çözüm (Vuslat/Şifa):** İmtihanı geçen kahraman, yarasıyla barışır, "bast" (genişleme) haline ve manevi sıhhate erişir.
 
-## 2. Kahramanın Yolculuğu (Şifanın Döngüsü)
-Joseph Campbell'ın döngüsü, bir terapi seansına benzer:
-1. **Çağrı:** Değişim kapıyı çalar (Semptomlar belirir).
-2. **Eşiği Geçiş:** Bilinçdışına, korkuların dünyasına adım atılır.
-3. **Çile (Ordeal):** "Gölge" ile yüzleşilir. En büyük korkuyla savaşılır.
-4. **İksirle Dönüş:** Kazanılan bilgelik (şifa) topluma sunulur.
+## 2. Kahramanın Yolculuğu (Devriye)
+Doğudan batıya tüm anlatılardaki ortak şifa döngüsü:
+1. **Çağrı (Teşhis):** İlahi veya içsel bir davet. "İyileşmen gerek!" uyarısı.
+2. **Eşiği Geçiş:** Dünyevi olandan kopuş ve tedaviye (yola) rıza.
+3. **Çile (Nefs Terbiyesi):** En büyük düşman dışarıda değil, içeridedir (Gölge/Nefs). İyileşme sancılıdır.
+4. **İksirle Dönüş (Tiryak):** Kazanılan hikmet (şifa), başkalarına merhem olmak için geri getirilir.
 
 > 🔗 **Bkz:** Bu yapıyı kiminle kuracaksınız? [Karakter Gelişimi](03-character-development.md) ve [Arketipler](04-archetypes.md) bölümlerine göz atın.
 
 ---
-[< Önceki: Giriş](01-introduction.md) | [Sonraki: Karakter Gelişimi >](03-character-development.md)
+[< Önceki: Giriş](01-introduction.md) | [Sonraki: Karakter Gelişimi (Nefs ve Ruh) >](03-character-development.md)
