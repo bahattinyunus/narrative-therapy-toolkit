@@ -1,0 +1,16 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python (if needed)
+__pycache__/
+*.pyc
+venv/
+env/
