@@ -1,24 +1,21 @@
-# Düzenleme ve Cilalama (Editing Checklist)
+# Düzenleme: Hikayeyi Arındırmak
 
-"Yazmak, yeniden yazmaktır." İlk taslak sadece hamurdur, heykel ikinci taslakta ortaya çıkar.
+Yazmak, zihni boşaltmaktır (kusmak). Düzenlemek ise, o karmaşanın içindeki "cevheri" bulup çıkarmaktır. Bu bir arınma (katharsis) sürecidir.
 
-## 1. Makro Düzenleme (Büyük Resim)
-- [ ] Hikaye nerede başlıyor? Çok mu geç, çok mu erken?
-- [ ] Olay örgüsünde mantık hataları (plot holes) var mı?
-- [ ] Karakter motivasyonları tutarlı mı?
-- [ ] Temposu düşen (sıkıcı) bölümler var mı?
+## 1. Fazlalıklardan Kurtulmak
+Hikayeye hizmet etmeyen her kelime, okuyucu ile anlam arasına giren bir duvardır.
+- Egoyu tatmin eden süslü cümleleri atın.
+- Gerçeği gölgeleyen tekrarları silin.
 
-## 2. Mikro Düzenleme (Satır Araları)
-- [ ] Gereksiz zarfları (aniden, hızla, yavaşça) atın. Eylemi güçlendirin. ("Kapıyı sertçe kapattı" -> "Kapıyı çarptı")
-- [ ] Diyaloglar doğal mı? Sesli okuyun.
-- [ ] Tekrarlayan kelimeler var mı?
-- [ ] **"Kill Your Darlings":** Çok sevdiğiniz ama hikayeye hizmet etmeyen o cümleyi/sahneyi silin.
+## 2. Duygusal Dürüstlük Kontrolü
+- Bu sahnede karakter gerçekten bunu mu hissederdi?
+- Yoksa yazar olarak ben mi müdahale ettim?
+- Karakterin acısına saygı duydum mu?
 
-## 3. Son Okuma
-- [ ] İmla ve noktalama hataları.
-- [ ] Yazım yanlışları.
+## 3. Akış ve Ritim
+İyileşme bir ritim işidir. Nefes alıp verme gibi. Hikayeniz nefes alıyor mu? Çok mu hızlı koşuyor, yoksa durup dinlenmeye zaman tanıyor mu?
 
-> 🛑 **Tavsiye:** Yazmayı bitirdikten sonra dosyanızı kapatın ve en az 1-2 gün (mümkünse bir hafta) bakmayın. Dinlenmiş bir zihinle hataları daha rahat görürsünüz.
+> 🛑 **Hatırlatma:** Mükemmel olmak zorunda değilsiniz. Sadece "gerçek" olun. Şifa oradadır.
 
 ---
 [< Önceki: Tema ve Sembolizm](07-theme-and-symbolism.md) | [🏠 Ana Sayfa](../README.md)

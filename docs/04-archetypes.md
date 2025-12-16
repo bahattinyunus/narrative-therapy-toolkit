@@ -1,28 +1,21 @@
-# Arketipler: Karakterlerin DNA'sı
+# Arketipler: İçimizdeki Parçalar
 
-Arketipler, Carl Jung'un kolektif bilinçdışı teorisinden türetilen ve hikaye anlatıcılığında evrensel karakter şablonları olarak kullanılan modellerdir. Bir hikayeyi "tanıdık" ama "özgün" kılan şey, arketiplerin doğru kullanımıdır.
+Arketipler sadece dışsal karakterler değil, kendi psikolojimizin parçalarıdır. Hikaye yazarken aslında kendi iç dünyamızdaki bu parçaları konuştururuz.
 
-## 1. Kahraman (The Hero)
-**Amaç:** Kötülüğü yenmek, bir hedefe ulaşmak.
-**Korku:** Zayıflık, teslim olmak.
-**Örnekler:** Harry Potter, Frodo Baggins, Neo.
+## 1. Kahraman (Ego/Benlik)
+Bilinçli tarafımız. Değişimi başlatan ve sorumluluğu alan parça.
 
-## 2. Bilge / Mentor (The Sage)
-**Amaç:** Gerçeği ve bilgiyi kullanmak.
-**Rolü:** Kahramana rehberlik etmek.
-**Örnekler:** Gandalf, Yoda, Dumbledore.
+## 2. Gölge (Bastırılmış Benlik)
+Görmezden geldiğimiz, korktuğumuz veya utandığımız yanlarımız.
+- **Şifa:** Kahraman, Gölge'yi yok etmez; onunla barışır ve onu kabul eder. (Bütünleşme).
 
-## 3. Gölge / Kötü Adam (The Shadow)
-**Amaç:** Kahramanın tam tersi, onun karanlık yansıması.
-**Rolü:** Çatışma yaratmak.
-**Örnekler:** Darth Vader, Voldemort, Joker.
+## 3. Mentor (Yüksek Benlik / Vicdan)
+İçimizdeki bilge ses. Bize doğru yolu gösteren sezgi.
 
-## 4. Şakacı (The Trickster)
-**Amaç:** Kaos yaratmak veya statükoyu sorgulamak.
-**Rolü:** Çizgisel gidişatı bozmak, mizah katmak.
-**Örnekler:** Loki, Han Solo (kısmen), Jack Sparrow.
+## 4. Şakacı (İçimizdeki Çocuk)
+Oyun oynamayı, kuralları yıkmayı ve neşeyi hatırlatan parça. Bazen kaotiktir ama yaratıcılığın kaynağıdır.
 
-> 💡 **İpucu:** En iyi karakterler genellikle tek bir arketipe sıkışıp kalmazlar. Arketipleri karıştırarak (örneğin, bir *Bilge* ama aynı zamanda *Şakacı*) derinlik katabilirsiniz.
+> 💡 **Perspektif:** Karakterlerinizi "kötü" veya "iyi" olarak değil, "yaralı" veya "şifalanmış" olarak düşünün.
 
 ---
 [< Önceki: Karakter Gelişimi](03-character-development.md) | [Sonraki: Dünya İnşası >](05-world-building.md)
